@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Arvind Mehta](mailto:arvind.mehta@owasp.org)
+* [Ashutosh Rana](mailto:ashutosh.rana@owasp.org)
