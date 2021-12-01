@@ -13,7 +13,7 @@ meetup-group:
 
 ## Welcome
 Welcome to the OWASP Princeton, New Jersey chapter home page!
-The New Jersey Chapter aims to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. We are commited to offer mentorship programs to those new to cybersecurity, provide networking opportunity to like-minded people, and to build a community where everyone can openly discuss current issues/opportunities in cybersecurity. 
+The New Jersey Chapter aims to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. We are committed to offer mentorship programs to those new to cybersecurity, provide networking opportunity to like-minded people, and to build a community where everyone can openly discuss current issues/opportunities in cybersecurity. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
