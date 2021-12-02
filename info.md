@@ -1,5 +1,4 @@
-### Princeton Information
-* Provide Group Information
+### OWASP Princeton, New Jersey Chapter
 
 ### Social Links
 * [Meetup](#)
