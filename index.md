@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Princeton, New Jersey
+title: OWASP Princeton
 region: North America
 meetup-group:
 
