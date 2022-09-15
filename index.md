@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Princeton
 region: North America
-meetup-group:
+meetup-group: https://www.meetup.com/owasp-princeton-chapter/
 
 ---
 
