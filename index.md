@@ -23,6 +23,17 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+## Chapter Supporters
+
+The following are the list of organizations who have generously supported our chapter with volunteers and meeting space:
+
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+<a href="https://www.palindrometech.com/" target="_blank" rel="noopener noreferrer"><img src="assets/images/PalindromeTech_logoFlat_horz_white letters-01.webp" alt="Palindrome Technologies logo" height="90" style="background-color: black;"/></a>
+</td>
+</tr>
+</table>
 
 ## Next Meeting/Event
 ---------------------
