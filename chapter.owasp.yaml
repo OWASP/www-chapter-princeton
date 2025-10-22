@@ -1,0 +1,24 @@
+leaders:
+  - name: Christopher Shaw
+    email: christopher.shaw@owasp.org
+  - name: Stephen Kresevic
+    email: stephen.kresevic@owasp.org
+    github: stevekrez
+location:
+  country: USA
+  country_code: US
+  region: New Jersey
+  city: Princeton
+  latitude: 40.3496953
+  longitude: -74.6597376
+meetup_group: owasp-princeton-chapter
+name: OWASP Princeton
+repositories:
+  - name: www-chapter-princeton
+    url: https://github.com/OWASP/www-chapter-princeton
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-princeton
